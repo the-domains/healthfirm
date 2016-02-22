@@ -1,0 +1,28 @@
+name: Healthfirm
+favicon: null
+layout_spectrum: 0.21422162628732622
+typography_spectrum: 0.55483907321468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.37383684725500643
+  lightness: 0.06026625609956682
+  saturation: 0.17963951942510903
+  rhythmicContrast: 0.3312070993706584
+purpose: []
