@@ -1,28 +1,40 @@
-name: Healthfirm
-favicon: null
-layout_spectrum: 0.21422162628732622
-typography_spectrum: 0.55483907321468
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#bae502'
-    - '#162fa6'
-    - '#31b700'
-    - '#2f6ddc'
-  brandStrength: 0.37383684725500643
-  lightness: 0.06026625609956682
-  saturation: 0.17963951942510903
-  rhythmicContrast: 0.3312070993706584
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#C8F0F9'
+    - '#0E6679'
+    - '#8DE0F2'
+    - '#159BB6'
+    - '#0C171A'
+  rhythmicContrast: 1
+typography_spectrum: 0.7224311
+layout_spectrum: 0.2537594
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Healthfirm
