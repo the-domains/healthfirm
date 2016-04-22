@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Da5id
+favicon: null
+layout_spectrum: 0.2537594
+typography_spectrum: 0.7224311
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#C8F0F9'
     - '#0E6679'
     - '#8DE0F2'
     - '#159BB6'
     - '#0C171A'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.7224311
-layout_spectrum: 0.2537594
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Healthfirm
+purpose: []
